@@ -7,12 +7,15 @@ import Magician from "./js/magician";
 import Daemon from "./js/daemon";
 import Undead from "./js/undead";
 import Zombie from "./js/zombie";
+import Character from './js/character';
 
 // TODO: write your code in app.js
-// const one = new Zombie('Silverhend');
-// one.demage(10);
-// one.demage(10);
-// console.log(one);
-// const two = new Zombie('Sina');
+// const one = new Bowman(123);
 // one.levelUP();
 // console.log(one);
+// const two = new Character('Sina', 'Bowman');
+// one.demage(two.attack);
+// one.levelUP();
+// one.levelUP();
+// console.log(one);
+// console.log(two);
