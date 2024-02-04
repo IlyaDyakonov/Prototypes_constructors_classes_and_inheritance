@@ -12,8 +12,4 @@ export default class Undead extends Character {
         this.attack = 25;
         this.defence = 25
     }
-
-    levelUP() {
-        super.levelUP();
-    }
 }
