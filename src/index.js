@@ -10,12 +10,12 @@ import Zombie from "./js/zombie";
 
 
 // TODO: write your code in app.js
-const one = new Bowman("Silver");
+// const one = new Bowman("Silver");
 // one.levelUP();
 // console.log(one);
-const two = new Character('Sina', 'Bowman');
+// const two = new Character('Sina', 'Bowman');
 // one.demage(two.attack);
 // one.levelUP();
 // two.levelUP();
-console.log(one);
-console.log(two);
+// console.log(one);
+// console.log(two);
